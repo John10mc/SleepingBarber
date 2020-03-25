@@ -21,24 +21,20 @@ class BarberShop():
         self.barbers = []
         self.numberOfBarbers = 4
         self.isOpen = True
-        self.capacity = 5
+        self.capacity = 15
         self.waitingRoom = queue.Queue()
         self.availableBarbers = self.numberOfBarbers
-        self.lock = threading.Lock()
 
     def startDay(self):
         barber = Barber(threading.current_thread().getName())
         self.barbers.append(barber)
         while self.isOpen:
-            self.lock.acquire()
             if self.waitingRoom.empty():
                 print("Barber {} has gone to sleep.".format(barber.name))
-                self.lock.release()
                 barber.sleep()
                 print("Barber {} has woke up.".format(barber.name))
             else:
                 self.availableBarbers -= 1
-                self.lock.release()
                 barber.cutHair(self.waitingRoom.get())
                 self.availableBarbers += 1
 
