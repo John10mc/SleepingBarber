@@ -1,0 +1,175 @@
+Barber Info
+Barber Bernie started work at: Thu Mar 26 19:40:23 2020
+Barber Bernie has gone to sleep at: Thu Mar 26 19:40:23 2020
+Barber Bernie has been woke up by 14 at Thu Mar 26 19:40:48 2020
+Barber Bernie has started cutting 14's hair at: Thu Mar 26 19:40:48 2020
+Barber Bernie has finished cutting 14's hair at: Thu Mar 26 19:40:58 2020
+Barber Bernie has started cutting 18's hair at: Thu Mar 26 19:40:58 2020
+Barber Bernie has finished cutting 18's hair at: Thu Mar 26 19:41:10 2020
+Barber Bernie has started cutting 26's hair at: Thu Mar 26 19:41:10 2020
+Barber Bernie has finished cutting 26's hair at: Thu Mar 26 19:41:11 2020
+Barber Bernie has started cutting 27's hair at: Thu Mar 26 19:41:11 2020
+Barber Bernie has finished cutting 27's hair at: Thu Mar 26 19:41:13 2020
+Barber Bernie has started cutting 29's hair at: Thu Mar 26 19:41:13 2020
+Barber Bernie has finished cutting 29's hair at: Thu Mar 26 19:41:19 2020
+Barber Bernie has gone to sleep at: Thu Mar 26 19:41:19 2020
+Barber Bernie has been woke up by 36 at Thu Mar 26 19:41:26 2020
+Barber Bernie has started cutting 36's hair at: Thu Mar 26 19:41:26 2020
+Barber Bernie has finished cutting 36's hair at: Thu Mar 26 19:41:33 2020
+Barber Bernie has gone to sleep at: Thu Mar 26 19:41:33 2020
+Barber Bernie has been woke up by 42 at Thu Mar 26 19:41:33 2020
+Barber Bernie has started cutting 42's hair at: Thu Mar 26 19:41:33 2020
+Barber Bernie has finished cutting 42's hair at: Thu Mar 26 19:41:43 2020
+Barber Bernie has gone to sleep at: Thu Mar 26 19:41:43 2020
+Barber Bernie has woken up for the end of the day at Thu Mar 26 19:41:51 2020
+
+Barber Billy started work at: Thu Mar 26 19:40:23 2020
+Barber Billy has gone to sleep at: Thu Mar 26 19:40:23 2020
+Barber Billy has been woke up by 2 at Thu Mar 26 19:40:29 2020
+Barber Billy has started cutting 2's hair at: Thu Mar 26 19:40:29 2020
+Barber Billy has finished cutting 2's hair at: Thu Mar 26 19:40:32 2020
+Barber Billy has gone to sleep at: Thu Mar 26 19:40:32 2020
+Barber Billy has been woke up by 7 at Thu Mar 26 19:40:38 2020
+Barber Billy has started cutting 7's hair at: Thu Mar 26 19:40:38 2020
+Barber Billy has finished cutting 7's hair at: Thu Mar 26 19:40:50 2020
+Barber Billy has gone to sleep at: Thu Mar 26 19:40:50 2020
+Barber Billy has been woke up by 15 at Thu Mar 26 19:40:51 2020
+Barber Billy has started cutting 15's hair at: Thu Mar 26 19:40:51 2020
+Barber Billy has finished cutting 15's hair at: Thu Mar 26 19:41:00 2020
+Barber Billy has started cutting 20's hair at: Thu Mar 26 19:41:00 2020
+Barber Billy has finished cutting 20's hair at: Thu Mar 26 19:41:07 2020
+Barber Billy has started cutting 23's hair at: Thu Mar 26 19:41:07 2020
+Barber Billy has finished cutting 23's hair at: Thu Mar 26 19:41:15 2020
+Barber Billy has gone to sleep at: Thu Mar 26 19:41:15 2020
+Barber Billy has been woke up by 30 at Thu Mar 26 19:41:16 2020
+Barber Billy has started cutting 30's hair at: Thu Mar 26 19:41:16 2020
+Barber Billy has finished cutting 30's hair at: Thu Mar 26 19:41:23 2020
+Barber Billy has gone to sleep at: Thu Mar 26 19:41:23 2020
+Barber Billy has been woke up by 34 at Thu Mar 26 19:41:25 2020
+Barber Billy has started cutting 34's hair at: Thu Mar 26 19:41:25 2020
+Barber Billy has finished cutting 34's hair at: Thu Mar 26 19:41:35 2020
+Barber Billy has gone to sleep at: Thu Mar 26 19:41:35 2020
+Barber Billy has been woke up by 43 at Thu Mar 26 19:41:36 2020
+Barber Billy has started cutting 43's hair at: Thu Mar 26 19:41:36 2020
+Barber Billy has finished cutting 43's hair at: Thu Mar 26 19:41:43 2020
+Barber Billy has gone to sleep at: Thu Mar 26 19:41:43 2020
+Barber Billy has been woke up by 47 at Thu Mar 26 19:41:45 2020
+Barber Billy has started cutting 47's hair at: Thu Mar 26 19:41:45 2020
+Barber Billy has finished cutting 47's hair at: Thu Mar 26 19:41:54 2020
+
+
+Barber Ben started work at: Thu Mar 26 19:40:23 2020
+Barber Ben has gone to sleep at: Thu Mar 26 19:40:23 2020
+Barber Ben has been woke up by 4 at Thu Mar 26 19:40:31 2020
+Barber Ben has started cutting 4's hair at: Thu Mar 26 19:40:31 2020
+Barber Ben has finished cutting 4's hair at: Thu Mar 26 19:40:35 2020
+Barber Ben has gone to sleep at: Thu Mar 26 19:40:35 2020
+Barber Ben has been woke up by 10 at Thu Mar 26 19:40:42 2020
+Barber Ben has started cutting 10's hair at: Thu Mar 26 19:40:42 2020
+Barber Ben has finished cutting 10's hair at: Thu Mar 26 19:40:48 2020
+Barber Ben has started cutting 13's hair at: Thu Mar 26 19:40:48 2020
+Barber Ben has finished cutting 13's hair at: Thu Mar 26 19:40:55 2020
+Barber Ben has started cutting 17's hair at: Thu Mar 26 19:40:55 2020
+Barber Ben has finished cutting 17's hair at: Thu Mar 26 19:41:05 2020
+Barber Ben has started cutting 22's hair at: Thu Mar 26 19:41:05 2020
+Barber Ben has finished cutting 22's hair at: Thu Mar 26 19:41:08 2020
+Barber Ben has started cutting 24's hair at: Thu Mar 26 19:41:08 2020
+Barber Ben has finished cutting 24's hair at: Thu Mar 26 19:41:19 2020
+Barber Ben has started cutting 31's hair at: Thu Mar 26 19:41:19 2020
+Barber Ben has finished cutting 31's hair at: Thu Mar 26 19:41:27 2020
+Barber Ben has started cutting 37's hair at: Thu Mar 26 19:41:27 2020
+Barber Ben has finished cutting 37's hair at: Thu Mar 26 19:41:30 2020
+Barber Ben has gone to sleep at: Thu Mar 26 19:41:30 2020
+Barber Ben has been woke up by 40 at Thu Mar 26 19:41:30 2020
+Barber Ben has started cutting 40's hair at: Thu Mar 26 19:41:30 2020
+Barber Ben has finished cutting 40's hair at: Thu Mar 26 19:41:41 2020
+Barber Ben has started cutting 45's hair at: Thu Mar 26 19:41:41 2020
+Barber Ben has finished cutting 45's hair at: Thu Mar 26 19:41:47 2020
+Barber Ben has gone to sleep at: Thu Mar 26 19:41:47 2020
+Barber Ben has been woke up by 49 at Thu Mar 26 19:41:48 2020
+Barber Ben has started cutting 49's hair at: Thu Mar 26 19:41:48 2020
+Barber Ben has finished cutting 49's hair at: Thu Mar 26 19:41:55 2020
+
+
+Barber Carl started work at: Thu Mar 26 19:40:23 2020
+Barber Carl has gone to sleep at: Thu Mar 26 19:40:23 2020
+Barber Carl has been woke up by 3 at Thu Mar 26 19:40:31 2020
+Barber Carl has started cutting 3's hair at: Thu Mar 26 19:40:31 2020
+Barber Carl has finished cutting 3's hair at: Thu Mar 26 19:40:32 2020
+Barber Carl has gone to sleep at: Thu Mar 26 19:40:32 2020
+Barber Carl has been woke up by 5 at Thu Mar 26 19:40:32 2020
+Barber Carl has started cutting 5's hair at: Thu Mar 26 19:40:32 2020
+Barber Carl has finished cutting 5's hair at: Thu Mar 26 19:40:37 2020
+Barber Carl has gone to sleep at: Thu Mar 26 19:40:37 2020
+Barber Carl has been woke up by 9 at Thu Mar 26 19:40:42 2020
+Barber Carl has started cutting 9's hair at: Thu Mar 26 19:40:42 2020
+Barber Carl has finished cutting 9's hair at: Thu Mar 26 19:40:48 2020
+Barber Carl has started cutting 12's hair at: Thu Mar 26 19:40:48 2020
+Barber Carl has finished cutting 12's hair at: Thu Mar 26 19:40:50 2020
+Barber Carl has gone to sleep at: Thu Mar 26 19:40:50 2020
+Barber Carl has been woke up by 16 at Thu Mar 26 19:40:51 2020
+Barber Carl has started cutting 16's hair at: Thu Mar 26 19:40:51 2020
+Barber Carl has finished cutting 16's hair at: Thu Mar 26 19:41:02 2020
+Barber Carl has started cutting 21's hair at: Thu Mar 26 19:41:02 2020
+Barber Carl has finished cutting 21's hair at: Thu Mar 26 19:41:13 2020
+Barber Carl has started cutting 28's hair at: Thu Mar 26 19:41:13 2020
+Barber Carl has finished cutting 28's hair at: Thu Mar 26 19:41:22 2020
+Barber Carl has gone to sleep at: Thu Mar 26 19:41:22 2020
+Barber Carl has been woke up by 33 at Thu Mar 26 19:41:22 2020
+Barber Carl has started cutting 33's hair at: Thu Mar 26 19:41:22 2020
+Barber Carl has finished cutting 33's hair at: Thu Mar 26 19:41:23 2020
+Barber Carl has gone to sleep at: Thu Mar 26 19:41:23 2020
+Barber Carl has been woke up by 35 at Thu Mar 26 19:41:26 2020
+Barber Carl has started cutting 35's hair at: Thu Mar 26 19:41:26 2020
+Barber Carl has finished cutting 35's hair at: Thu Mar 26 19:41:28 2020
+Barber Carl has gone to sleep at: Thu Mar 26 19:41:28 2020
+Barber Carl has been woke up by 39 at Thu Mar 26 19:41:28 2020
+Barber Carl has started cutting 39's hair at: Thu Mar 26 19:41:28 2020
+Barber Carl has finished cutting 39's hair at: Thu Mar 26 19:41:31 2020
+Barber Carl has gone to sleep at: Thu Mar 26 19:41:31 2020
+Barber Carl has been woke up by 41 at Thu Mar 26 19:41:32 2020
+Barber Carl has started cutting 41's hair at: Thu Mar 26 19:41:32 2020
+Barber Carl has finished cutting 41's hair at: Thu Mar 26 19:41:42 2020
+Barber Carl has gone to sleep at: Thu Mar 26 19:41:42 2020
+Barber Carl has been woke up by 46 at Thu Mar 26 19:41:42 2020
+Barber Carl has started cutting 46's hair at: Thu Mar 26 19:41:42 2020
+Barber Carl has finished cutting 46's hair at: Thu Mar 26 19:41:45 2020
+Barber Carl has started cutting 48's hair at: Thu Mar 26 19:41:45 2020
+Barber Carl has finished cutting 48's hair at: Thu Mar 26 19:41:57 2020
+
+
+Barber Bob started work at: Thu Mar 26 19:40:23 2020
+Barber Bob has gone to sleep at: Thu Mar 26 19:40:23 2020
+Barber Bob has been woke up by 1 at Thu Mar 26 19:40:26 2020
+Barber Bob has started cutting 1's hair at: Thu Mar 26 19:40:26 2020
+Barber Bob has finished cutting 1's hair at: Thu Mar 26 19:40:35 2020
+Barber Bob has gone to sleep at: Thu Mar 26 19:40:35 2020
+Barber Bob has been woke up by 6 at Thu Mar 26 19:40:35 2020
+Barber Bob has started cutting 6's hair at: Thu Mar 26 19:40:35 2020
+Barber Bob has finished cutting 6's hair at: Thu Mar 26 19:40:38 2020
+Barber Bob has gone to sleep at: Thu Mar 26 19:40:38 2020
+Barber Bob has been woke up by 8 at Thu Mar 26 19:40:41 2020
+Barber Bob has started cutting 8's hair at: Thu Mar 26 19:40:41 2020
+Barber Bob has finished cutting 8's hair at: Thu Mar 26 19:40:47 2020
+Barber Bob has started cutting 11's hair at: Thu Mar 26 19:40:47 2020
+Barber Bob has finished cutting 11's hair at: Thu Mar 26 19:40:59 2020
+Barber Bob has started cutting 19's hair at: Thu Mar 26 19:40:59 2020
+Barber Bob has finished cutting 19's hair at: Thu Mar 26 19:41:10 2020
+Barber Bob has started cutting 25's hair at: Thu Mar 26 19:41:10 2020
+Barber Bob has finished cutting 25's hair at: Thu Mar 26 19:41:19 2020
+Barber Bob has gone to sleep at: Thu Mar 26 19:41:19 2020
+Barber Bob has been woke up by 32 at Thu Mar 26 19:41:21 2020
+Barber Bob has started cutting 32's hair at: Thu Mar 26 19:41:21 2020
+Barber Bob has finished cutting 32's hair at: Thu Mar 26 19:41:27 2020
+Barber Bob has gone to sleep at: Thu Mar 26 19:41:27 2020
+Barber Bob has been woke up by 38 at Thu Mar 26 19:41:27 2020
+Barber Bob has started cutting 38's hair at: Thu Mar 26 19:41:27 2020
+Barber Bob has finished cutting 38's hair at: Thu Mar 26 19:41:38 2020
+Barber Bob has started cutting 44's hair at: Thu Mar 26 19:41:38 2020
+Barber Bob has finished cutting 44's hair at: Thu Mar 26 19:41:50 2020
+Barber Bob has gone to sleep at: Thu Mar 26 19:41:50 2020
+Barber Bob has been woke up by 50 at Thu Mar 26 19:41:51 2020
+Barber Bob has started cutting 50's hair at: Thu Mar 26 19:41:51 2020
+Barber Bob has finished cutting 50's hair at: Thu Mar 26 19:42:02 2020
+
+
