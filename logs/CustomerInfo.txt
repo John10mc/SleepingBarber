@@ -1,401 +1,121 @@
 Customers Info
-Name: 3
-Time entered the barber shop at: Thu Mar 26 19:40:31 2020
-Time Entered waiting room: 
-Barber: Carl
-Haircut started at: Thu Mar 26 19:40:31 2020
-Haircut finished getting cut at: Thu Mar 26 19:40:32 2020
-Haircut time: 1
-
 Name: 2
-Time entered the barber shop at: Thu Mar 26 19:40:29 2020
-Time Entered waiting room: 
-Barber: Billy
-Haircut started at: Thu Mar 26 19:40:29 2020
-Haircut finished getting cut at: Thu Mar 26 19:40:32 2020
-Haircut time: 3
-
-Name: 1
-Time entered the barber shop at: Thu Mar 26 19:40:26 2020
+Time entered the barber shop at: Tue Mar 31 20:16:34 2020
 Time Entered waiting room: 
 Barber: Bob
-Haircut started at: Thu Mar 26 19:40:26 2020
-Haircut finished getting cut at: Thu Mar 26 19:40:35 2020
-Haircut time: 9
+Haircut started at: Tue Mar 31 20:16:34 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:35 2020
+Haircut time: 1
 
-Name: 4
-Time entered the barber shop at: Thu Mar 26 19:40:31 2020
-Time Entered waiting room: 
-Barber: Ben
-Haircut started at: Thu Mar 26 19:40:31 2020
-Haircut finished getting cut at: Thu Mar 26 19:40:35 2020
-Haircut time: 4
-
-Name: 5
-Time entered the barber shop at: Thu Mar 26 19:40:32 2020
+Name: 1
+Time entered the barber shop at: Tue Mar 31 20:16:31 2020
 Time Entered waiting room: 
 Barber: Carl
-Haircut started at: Thu Mar 26 19:40:32 2020
-Haircut finished getting cut at: Thu Mar 26 19:40:37 2020
+Haircut started at: Tue Mar 31 20:16:31 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:38 2020
+Haircut time: 7
+
+Name: 4
+Time entered the barber shop at: Tue Mar 31 20:16:39 2020
+Time Entered waiting room: 
+Barber: Billy
+Haircut started at: Tue Mar 31 20:16:39 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:44 2020
+Haircut time: 5
+
+Name: 3
+Time entered the barber shop at: Tue Mar 31 20:16:37 2020
+Time Entered waiting room: 
+Barber: Bob
+Haircut started at: Tue Mar 31 20:16:37 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:44 2020
+Haircut time: 7
+
+Name: 5
+Time entered the barber shop at: Tue Mar 31 20:16:40 2020
+Time Entered waiting room: 
+Barber: Carl
+Haircut started at: Tue Mar 31 20:16:40 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:45 2020
 Haircut time: 5
 
 Name: 6
-Time entered the barber shop at: Thu Mar 26 19:40:35 2020
+Time entered the barber shop at: Tue Mar 31 20:16:43 2020
 Time Entered waiting room: 
-Barber: Bob
-Haircut started at: Thu Mar 26 19:40:35 2020
-Haircut finished getting cut at: Thu Mar 26 19:40:38 2020
+Barber: Ben
+Haircut started at: Tue Mar 31 20:16:43 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:45 2020
+Haircut time: 2
+
+Name: 7
+Time entered the barber shop at: Tue Mar 31 20:16:44 2020
+Time Entered waiting room: 
+Barber: Billy
+Haircut started at: Tue Mar 31 20:16:44 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:47 2020
+Haircut time: 3
+
+Name: 9
+Time entered the barber shop at: Tue Mar 31 20:16:46 2020
+Time Entered waiting room: 
+Barber: Carl
+Haircut started at: Tue Mar 31 20:16:46 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:49 2020
 Haircut time: 3
 
 Name: 8
-Time entered the barber shop at: Thu Mar 26 19:40:41 2020
-Time Entered waiting room: 
+Time entered the barber shop at: Tue Mar 31 20:16:44 2020
+Time Entered waiting room: Tue Mar 31 20:16:44 2020
 Barber: Bob
-Haircut started at: Thu Mar 26 19:40:41 2020
-Haircut finished getting cut at: Thu Mar 26 19:40:47 2020
-Haircut time: 6
-
-Name: 9
-Time entered the barber shop at: Thu Mar 26 19:40:42 2020
-Time Entered waiting room: 
-Barber: Carl
-Haircut started at: Thu Mar 26 19:40:42 2020
-Haircut finished getting cut at: Thu Mar 26 19:40:48 2020
-Haircut time: 6
-
-Name: 10
-Time entered the barber shop at: Thu Mar 26 19:40:42 2020
-Time Entered waiting room: 
-Barber: Ben
-Haircut started at: Thu Mar 26 19:40:42 2020
-Haircut finished getting cut at: Thu Mar 26 19:40:48 2020
-Haircut time: 6
-
-Name: 7
-Time entered the barber shop at: Thu Mar 26 19:40:38 2020
-Time Entered waiting room: 
-Barber: Billy
-Haircut started at: Thu Mar 26 19:40:38 2020
-Haircut finished getting cut at: Thu Mar 26 19:40:50 2020
-Haircut time: 12
-
-Name: 12
-Time entered the barber shop at: Thu Mar 26 19:40:42 2020
-Time Entered waiting room: Thu Mar 26 19:40:42 2020
-Barber: Carl
-Haircut started at: Thu Mar 26 19:40:48 2020
-Haircut finished getting cut at: Thu Mar 26 19:40:50 2020
-Haircut time: 2
-
-Name: 13
-Time entered the barber shop at: Thu Mar 26 19:40:45 2020
-Time Entered waiting room: Thu Mar 26 19:40:45 2020
-Barber: Ben
-Haircut started at: Thu Mar 26 19:40:48 2020
-Haircut finished getting cut at: Thu Mar 26 19:40:55 2020
+Haircut started at: Tue Mar 31 20:16:44 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:51 2020
 Haircut time: 7
-
-Name: 14
-Time entered the barber shop at: Thu Mar 26 19:40:48 2020
-Time Entered waiting room: 
-Barber: Bernie
-Haircut started at: Thu Mar 26 19:40:48 2020
-Haircut finished getting cut at: Thu Mar 26 19:40:58 2020
-Haircut time: 10
 
 Name: 11
-Time entered the barber shop at: Thu Mar 26 19:40:42 2020
-Time Entered waiting room: Thu Mar 26 19:40:42 2020
+Time entered the barber shop at: Tue Mar 31 20:16:48 2020
+Time Entered waiting room: 
+Barber: Ben
+Haircut started at: Tue Mar 31 20:16:48 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:52 2020
+Haircut time: 4
+
+Name: 12
+Time entered the barber shop at: Tue Mar 31 20:16:50 2020
+Time Entered waiting room: 
+Barber: Carl
+Haircut started at: Tue Mar 31 20:16:50 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:53 2020
+Haircut time: 3
+
+Name: 10
+Time entered the barber shop at: Tue Mar 31 20:16:47 2020
+Time Entered waiting room: 
+Barber: Billy
+Haircut started at: Tue Mar 31 20:16:47 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:53 2020
+Haircut time: 6
+
+Name: 13
+Time entered the barber shop at: Tue Mar 31 20:16:53 2020
+Time Entered waiting room: 
 Barber: Bob
-Haircut started at: Thu Mar 26 19:40:47 2020
-Haircut finished getting cut at: Thu Mar 26 19:40:59 2020
-Haircut time: 12
+Haircut started at: Tue Mar 31 20:16:53 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:55 2020
+Haircut time: 2
+
+Name: 14
+Time entered the barber shop at: Tue Mar 31 20:16:53 2020
+Time Entered waiting room: 
+Barber: Carl
+Haircut started at: Tue Mar 31 20:16:53 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:56 2020
+Haircut time: 3
 
 Name: 15
-Time entered the barber shop at: Thu Mar 26 19:40:51 2020
+Time entered the barber shop at: Tue Mar 31 20:16:53 2020
 Time Entered waiting room: 
 Barber: Billy
-Haircut started at: Thu Mar 26 19:40:51 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:00 2020
-Haircut time: 9
-
-Name: 16
-Time entered the barber shop at: Thu Mar 26 19:40:51 2020
-Time Entered waiting room: 
-Barber: Carl
-Haircut started at: Thu Mar 26 19:40:51 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:02 2020
-Haircut time: 11
-
-Name: 17
-Time entered the barber shop at: Thu Mar 26 19:40:53 2020
-Time Entered waiting room: Thu Mar 26 19:40:53 2020
-Barber: Ben
-Haircut started at: Thu Mar 26 19:40:55 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:05 2020
-Haircut time: 10
-
-Name: 20
-Time entered the barber shop at: Thu Mar 26 19:40:57 2020
-Time Entered waiting room: Thu Mar 26 19:40:57 2020
-Barber: Billy
-Haircut started at: Thu Mar 26 19:41:00 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:07 2020
-Haircut time: 7
-
-Name: 22
-Time entered the barber shop at: Thu Mar 26 19:41:01 2020
-Time Entered waiting room: Thu Mar 26 19:41:01 2020
-Barber: Ben
-Haircut started at: Thu Mar 26 19:41:05 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:08 2020
-Haircut time: 3
-
-Name: 19
-Time entered the barber shop at: Thu Mar 26 19:40:57 2020
-Time Entered waiting room: Thu Mar 26 19:40:57 2020
-Barber: Bob
-Haircut started at: Thu Mar 26 19:40:59 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:10 2020
-Haircut time: 11
-
-Name: 18
-Time entered the barber shop at: Thu Mar 26 19:40:54 2020
-Time Entered waiting room: Thu Mar 26 19:40:54 2020
-Barber: Bernie
-Haircut started at: Thu Mar 26 19:40:58 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:10 2020
-Haircut time: 12
-
-Name: 26
-Time entered the barber shop at: Thu Mar 26 19:41:07 2020
-Time Entered waiting room: Thu Mar 26 19:41:07 2020
-Barber: Bernie
-Haircut started at: Thu Mar 26 19:41:10 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:11 2020
-Haircut time: 1
-
-Name: 21
-Time entered the barber shop at: Thu Mar 26 19:40:58 2020
-Time Entered waiting room: Thu Mar 26 19:40:58 2020
-Barber: Carl
-Haircut started at: Thu Mar 26 19:41:02 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:13 2020
-Haircut time: 11
-
-Name: 27
-Time entered the barber shop at: Thu Mar 26 19:41:10 2020
-Time Entered waiting room: Thu Mar 26 19:41:10 2020
-Barber: Bernie
-Haircut started at: Thu Mar 26 19:41:11 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:13 2020
-Haircut time: 2
-
-Name: 23
-Time entered the barber shop at: Thu Mar 26 19:41:04 2020
-Time Entered waiting room: Thu Mar 26 19:41:04 2020
-Barber: Billy
-Haircut started at: Thu Mar 26 19:41:07 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:15 2020
-Haircut time: 8
-
-Name: 24
-Time entered the barber shop at: Thu Mar 26 19:41:06 2020
-Time Entered waiting room: Thu Mar 26 19:41:06 2020
-Barber: Ben
-Haircut started at: Thu Mar 26 19:41:08 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:19 2020
-Haircut time: 11
-
-Name: 25
-Time entered the barber shop at: Thu Mar 26 19:41:06 2020
-Time Entered waiting room: Thu Mar 26 19:41:06 2020
-Barber: Bob
-Haircut started at: Thu Mar 26 19:41:10 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:19 2020
-Haircut time: 9
-
-Name: 29
-Time entered the barber shop at: Thu Mar 26 19:41:13 2020
-Time Entered waiting room: Thu Mar 26 19:41:13 2020
-Barber: Bernie
-Haircut started at: Thu Mar 26 19:41:13 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:19 2020
+Haircut started at: Tue Mar 31 20:16:53 2020
+Haircut finished getting cut at: Tue Mar 31 20:16:59 2020
 Haircut time: 6
-
-Name: 28
-Time entered the barber shop at: Thu Mar 26 19:41:10 2020
-Time Entered waiting room: Thu Mar 26 19:41:10 2020
-Barber: Carl
-Haircut started at: Thu Mar 26 19:41:13 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:22 2020
-Haircut time: 9
-
-Name: 30
-Time entered the barber shop at: Thu Mar 26 19:41:16 2020
-Time Entered waiting room: 
-Barber: Billy
-Haircut started at: Thu Mar 26 19:41:16 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:23 2020
-Haircut time: 7
-
-Name: 33
-Time entered the barber shop at: Thu Mar 26 19:41:22 2020
-Time Entered waiting room: 
-Barber: Carl
-Haircut started at: Thu Mar 26 19:41:22 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:23 2020
-Haircut time: 1
-
-Name: 31
-Time entered the barber shop at: Thu Mar 26 19:41:18 2020
-Time Entered waiting room: Thu Mar 26 19:41:18 2020
-Barber: Ben
-Haircut started at: Thu Mar 26 19:41:19 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:27 2020
-Haircut time: 8
-
-Name: 32
-Time entered the barber shop at: Thu Mar 26 19:41:21 2020
-Time Entered waiting room: 
-Barber: Bob
-Haircut started at: Thu Mar 26 19:41:21 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:27 2020
-Haircut time: 6
-
-Name: 35
-Time entered the barber shop at: Thu Mar 26 19:41:26 2020
-Time Entered waiting room: 
-Barber: Carl
-Haircut started at: Thu Mar 26 19:41:26 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:28 2020
-Haircut time: 2
-
-Name: 37
-Time entered the barber shop at: Thu Mar 26 19:41:26 2020
-Time Entered waiting room: Thu Mar 26 19:41:26 2020
-Barber: Ben
-Haircut started at: Thu Mar 26 19:41:27 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:30 2020
-Haircut time: 3
-
-Name: 39
-Time entered the barber shop at: Thu Mar 26 19:41:28 2020
-Time Entered waiting room: 
-Barber: Carl
-Haircut started at: Thu Mar 26 19:41:28 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:31 2020
-Haircut time: 3
-
-Name: 36
-Time entered the barber shop at: Thu Mar 26 19:41:26 2020
-Time Entered waiting room: 
-Barber: Bernie
-Haircut started at: Thu Mar 26 19:41:26 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:33 2020
-Haircut time: 7
-
-Name: 34
-Time entered the barber shop at: Thu Mar 26 19:41:25 2020
-Time Entered waiting room: 
-Barber: Billy
-Haircut started at: Thu Mar 26 19:41:25 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:35 2020
-Haircut time: 10
-
-Name: 38
-Time entered the barber shop at: Thu Mar 26 19:41:27 2020
-Time Entered waiting room: 
-Barber: Bob
-Haircut started at: Thu Mar 26 19:41:27 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:38 2020
-Haircut time: 11
-
-Name: 40
-Time entered the barber shop at: Thu Mar 26 19:41:30 2020
-Time Entered waiting room: 
-Barber: Ben
-Haircut started at: Thu Mar 26 19:41:30 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:41 2020
-Haircut time: 11
-
-Name: 41
-Time entered the barber shop at: Thu Mar 26 19:41:32 2020
-Time Entered waiting room: 
-Barber: Carl
-Haircut started at: Thu Mar 26 19:41:32 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:42 2020
-Haircut time: 10
-
-Name: 43
-Time entered the barber shop at: Thu Mar 26 19:41:36 2020
-Time Entered waiting room: 
-Barber: Billy
-Haircut started at: Thu Mar 26 19:41:36 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:43 2020
-Haircut time: 7
-
-Name: 42
-Time entered the barber shop at: Thu Mar 26 19:41:33 2020
-Time Entered waiting room: 
-Barber: Bernie
-Haircut started at: Thu Mar 26 19:41:33 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:43 2020
-Haircut time: 10
-
-Name: 46
-Time entered the barber shop at: Thu Mar 26 19:41:42 2020
-Time Entered waiting room: 
-Barber: Carl
-Haircut started at: Thu Mar 26 19:41:42 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:45 2020
-Haircut time: 3
-
-Name: 45
-Time entered the barber shop at: Thu Mar 26 19:41:39 2020
-Time Entered waiting room: Thu Mar 26 19:41:39 2020
-Barber: Ben
-Haircut started at: Thu Mar 26 19:41:41 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:47 2020
-Haircut time: 6
-
-Name: 44
-Time entered the barber shop at: Thu Mar 26 19:41:37 2020
-Time Entered waiting room: Thu Mar 26 19:41:37 2020
-Barber: Bob
-Haircut started at: Thu Mar 26 19:41:38 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:50 2020
-Haircut time: 12
-
-Name: 47
-Time entered the barber shop at: Thu Mar 26 19:41:45 2020
-Time Entered waiting room: 
-Barber: Billy
-Haircut started at: Thu Mar 26 19:41:45 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:54 2020
-Haircut time: 9
-
-Name: 49
-Time entered the barber shop at: Thu Mar 26 19:41:48 2020
-Time Entered waiting room: 
-Barber: Ben
-Haircut started at: Thu Mar 26 19:41:48 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:55 2020
-Haircut time: 7
-
-Name: 48
-Time entered the barber shop at: Thu Mar 26 19:41:45 2020
-Time Entered waiting room: Thu Mar 26 19:41:45 2020
-Barber: Carl
-Haircut started at: Thu Mar 26 19:41:45 2020
-Haircut finished getting cut at: Thu Mar 26 19:41:57 2020
-Haircut time: 12
-
-Name: 50
-Time entered the barber shop at: Thu Mar 26 19:41:51 2020
-Time Entered waiting room: 
-Barber: Bob
-Haircut started at: Thu Mar 26 19:41:51 2020
-Haircut finished getting cut at: Thu Mar 26 19:42:02 2020
-Haircut time: 11
 
